@@ -14,17 +14,8 @@ Works on localhost
 
 📦 Project Structure
 
-.
-├── src/                         # Java source code
-│   ├── main/
-│   │   ├── java/com/example/chatbot/   # Backend Java files
-│   │   ├── resources/           # Static files and configuration
-│   │   │   ├── application.properties
-│   │   │   ├── static/          # Frontend HTML, CSS, JS
-│   │   │   ├── templates/       # Thymeleaf templates (if used)
-├── pom.xml                      # Maven dependencies
-├── README.md                    # Project documentation
-└── ...
+![image](https://github.com/user-attachments/assets/e642837c-f6f7-43bc-9df2-79b9669eea2c)
+
 
 ⚙️ Installation & Setup
 
